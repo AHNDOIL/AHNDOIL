@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 ### Activity
+- 육군 정보통신학교 ATCIS병 과정 수료 (ATCIS 서버, 네트워크 보안, 시스템 보안)
+- 군 전장망 ATCIS 서버 운용 및 관리
 - LIKELION 10th 수료 (2022. 01. ~ 2022. 12. 31.)
 - 넥슨 MapleStory Worlds X SUPER HACKATHON 2022 기획+개발 트랙 수료 (2022. 9. 07 ~ 2022. 12. 16)
 - LIKELION 11th 학교 운영진 (백엔드) (2023. 01. ~ )
+
+없는거 쥐어짜내려 하니까 좀 수치스럽네...
 
 ---
 
