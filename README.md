@@ -4,7 +4,7 @@
 - 군 전장망 ATCIS 서버 운용 및 관리, 육군 정보통신학교 ATCIS병 과정 (ATCIS 서버, 네트워크 보안, 시스템 보안)
 - LIKELION 10th (2022. 01. ~ 2022. 12. 31.)
 - 넥슨 MapleStory Worlds X SUPER HACKATHON 2022 기획+개발 트랙 (2022. 9. 07 ~ 2022. 12. 16)
-- LIKELION 11th 학교 운영진 (백엔드) (2023. 01. ~ )
+- LIKELION 11th 학교 운영진 (백엔드) (2023. 01. ~ 2023. 12. 31.)
 - IT's DGB, IM Challenger 2기, 제2회 대한민국 디지털 인재 양성 프로젝트 Final Round
 - Architecting on AWS 공인교육 수료 (2024. 01.)
 
