@@ -9,20 +9,6 @@
 - Architecting on AWS 공인교육 수료 (2024. 01.)
 
 
----
-
-### Major
-
-- 컴퓨터공학과 3/2 (전공 4.25/4.5)
-
----
-
-### Study
-
-- Effective Java
-- Secure Coding
-
----
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ahj3579)](https://solved.ac/ahj3579/)
