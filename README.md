@@ -8,6 +8,7 @@
 - 제2회 대한민국 디지털 인재 양성 프로젝트 IT's DGB, IM Challenger 최우수상 (2024)
 - 소프트웨어와 인공지능 과목 조교 (2024)
 - iM Bank ICT Financial Department (2024)
+- iM 금융그룹 iM Ready, iM Challenger 멘토 최우수상 (2025)
 
 
 
